@@ -9,4 +9,7 @@ func GetIp(){
 func GetName(){
 	fmt.Println("name = ..")
 }
+func Version(){
+	fmt.Println("version v0.1.2")
+}
 
